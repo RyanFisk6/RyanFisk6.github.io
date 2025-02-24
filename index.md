@@ -11,6 +11,7 @@ title: Ryan Fisk
 * [AdventureGenie](https://adventuregenie.com) is the first AI-based travel planning tool specifically geared towards RV and road trips.
 
 ## Experience
+
   ### AdventureGenie
   
   *2022 - Current*
@@ -24,6 +25,7 @@ title: Ryan Fisk
   * Led development of integrations between AG and key industry partners, enabling AG to be the only RV planning app that can take you from planning to renting an RV to booking campgrounds in one site.
 
 ## Education
+
   ### George Washington University 
 
   Washington, D.C. -- *B.S. Computer Science*
