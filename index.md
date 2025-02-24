@@ -31,5 +31,6 @@ title: Ryan Fisk
   Washington, D.C. -- *B.S. Computer Science*
 
   * Director of Activites for Undergraduate Ambassadors student mentorship program.
+  * TA for Embedded Systems and Intro to Software Development courses.
   * Key courses include Machine Learning, Advanced Operating Systems, Virtual and Augmented Reality, and Database Management.
   * Member of the Zeta Beta Tau Fraternity.
