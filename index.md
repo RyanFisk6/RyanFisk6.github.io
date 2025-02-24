@@ -12,7 +12,7 @@ title: Ryan Fisk
 
 ## Experience
 
-  ### AdventureGenie
+  **AdventureGenie**
   
   *2022 - Current*
 
@@ -26,7 +26,7 @@ title: Ryan Fisk
 
 ## Education
 
-  ### George Washington University 
+  **George Washington University** 
 
   Washington, D.C. -- *B.S. Computer Science*
 
