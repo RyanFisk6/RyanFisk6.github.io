@@ -21,15 +21,15 @@
 title: Ryan Fisk
 email: ryanfisk2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Boston based full stack software developer. 
-  Email: ryanfisk2@gmail.com    Tel: (518) 763-6022
+  Email: ryanfisk2@gmail.com
+  Tel: (518) 763-6022
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryanfisk.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  RyanFisk6
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
