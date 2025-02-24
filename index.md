@@ -12,6 +12,7 @@ title: Ryan Fisk
 
 ## Experience
   #### AdventureGenie
+  
   *2022 - Current*
 
   *Co-Founder*
