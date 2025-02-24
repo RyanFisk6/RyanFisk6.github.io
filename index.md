@@ -25,6 +25,7 @@ title: Ryan Fisk
 
 ## Education
   #### George Washington University 
+  
   Washington, D.C. -- *B.S. Computer Science*
 
   * Director of Activites for Undergraduate Ambassadors student mentorship program.
